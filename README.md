@@ -20,8 +20,5 @@
 
 
 🚀🔥 "Code. Create. Conquer." 🔥🚀
+
 </b>
-
-![Background](https://via.placeholder.com/1000x200/121212/FFFFFF?text=Your+Custom+Text)
-
-
