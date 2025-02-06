@@ -1,4 +1,4 @@
-<b style="background-color:#121212;color:white;padding:10px;">👋 Hi, I'm Shahnawaz!
+<b>👋 Hi, I'm Shahnawaz!
 
 🚀 Frontend Developer | PHP & CodeIgniter Enthusiast | Node.js Explorer                            
 🌟 Passionate Frontend Developer specializing in modern, responsive, and dynamic web applications.                                                   
@@ -22,5 +22,6 @@
 🚀🔥 "Code. Create. Conquer." 🔥🚀
 </b>
 
+![Background](https://via.placeholder.com/1000x200/121212/FFFFFF?text=Your+Custom+Text)
 
 
