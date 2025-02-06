@@ -1,4 +1,4 @@
-👋 Hi, I'm Shahnawaz!
+<b>👋 Hi, I'm Shahnawaz!
 
 🚀 Frontend Developer | PHP & CodeIgniter Enthusiast | Node.js Explorer                            
 🌟 Passionate Frontend Developer specializing in modern, responsive, and dynamic web applications.                                                   
@@ -20,3 +20,4 @@
 
 
 🚀🔥 "Code. Create. Conquer." 🔥🚀
+</b>
