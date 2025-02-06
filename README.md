@@ -1,6 +1,7 @@
 👋 Hi, I'm Shahnawaz!
+
 🚀 Frontend Developer | PHP & CodeIgniter Enthusiast | Node.js Explorer
-Welcome to my GitHub! I'm a passionate Frontend Developer with experience in HTML, CSS, JavaScript, Bootstrap, PHP, and CodeIgniter 3. I also have a basic understanding of Node.js and love building dynamic and efficient web applications.
+
 
 🌟 Passionate Frontend Developer specializing in modern, responsive, and dynamic web applications.
 🎯 Skilled in: HTML, CSS, JavaScript, Bootstrap, PHP, CodeIgniter 3, and Node.js (basics).
