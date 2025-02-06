@@ -3,7 +3,9 @@
 🚀 Frontend Developer | PHP & CodeIgniter Enthusiast | Node.js Explorer
 
 🌟 Passionate Frontend Developer specializing in modern, responsive, and dynamic web applications.
+
 🎯 Skilled in: HTML, CSS, JavaScript, Bootstrap, PHP, CodeIgniter 3, and Node.js (basics).
+
 📚 Always learning, experimenting, and pushing the boundaries of web development!
 
 
