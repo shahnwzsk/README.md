@@ -2,17 +2,13 @@
 
 🚀 Frontend Developer | PHP & CodeIgniter Enthusiast | Node.js Explorer
 
-
 🌟 Passionate Frontend Developer specializing in modern, responsive, and dynamic web applications.
 🎯 Skilled in: HTML, CSS, JavaScript, Bootstrap, PHP, CodeIgniter 3, and Node.js (basics).
 📚 Always learning, experimenting, and pushing the boundaries of web development!
 
 
-
 🚀 Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-%23EE4623.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
-
-
 
 
 🌎 Let's Connect!
@@ -22,7 +18,6 @@
 📧 Email: shahnwzsk98@email.com
 
 📞 Phone: +91 7710815693
-
 
 
 🚀🔥 "Code. Create. Conquer." 🔥🚀
